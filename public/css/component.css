@@ -1,0 +1,19 @@
+/* --- Navbar --- */
+.navbar{
+    background: linear-gradient(45deg, #e3342f, #f7770a);
+    color: white;
+}
+.back-btn{
+    color: white;
+}
+.card{
+    border: unset !important;
+}
+.card-img-top{
+    border-radius: 20px;
+}
+/* --- Footer --- */
+.main-footer{
+    background-color: aliceblue;
+    color: black;
+}
